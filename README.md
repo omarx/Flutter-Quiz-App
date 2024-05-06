@@ -1,16 +1,37 @@
-# adv_basics
+# Flutter Quiz App
 
-A new Flutter project.
+Welcome to our Flutter Quiz App, a simple yet engaging application to test your knowledge on various topics.
 
-## Getting Started
+## 📌 Prerequisites
+- Make sure you have Flutter SDK installed on your machine. If not, you can download it [here](https://flutter.dev/docs/get-started/install).
+- Set up your Flutter development environment according to the official documentation.
 
-This project is a starting point for a Flutter application.
+## 🚀 Installation & Setup
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone the Repository**
+   ```
+   git clone https://github.com/yourusername/flutter-quiz-app.git
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Navigate to the Project Directory**
+   ```
+   cd flutter-quiz-app
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Running the App**
+   Connect your device or emulator and run the following command:
+   ```
+   flutter run
+   ```
+
+## 📸 Screenshot
+
+*Screenshot will be added soon.*
+
+## ❓ Questions & Support
+
+If you encounter any issues or have questions about the app:
+- 📮 Open an [issue on GitHub](#) or
+- 📩 Reach out via email at [your.email@example.com](mailto:your.email@example.com).
+
+For more Flutter projects and contributions, visit my [GitHub profile](https://github.com/yourusername/).
