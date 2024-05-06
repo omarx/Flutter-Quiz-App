@@ -26,7 +26,8 @@ Welcome to our Flutter Quiz App, a simple yet engaging application to test your 
 
 ## 📸 Screenshot
 
-*Screenshot will be added soon.*
+![flutter-screenshot](https://github.com/omarx/Flutter-Quiz-App/assets/4944767/fc62d343-e321-4554-87fc-77b3d7c2459f)
+
 
 ## ❓ Questions & Support
 
